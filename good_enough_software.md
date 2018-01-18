@@ -1,4 +1,5 @@
 ---
+submitted: Jan 19, 2018
 author: Michael Kelly <michaelkelly322@gmail.com>
 conf:   RailsConf 2018
 track:  Business and Rails
@@ -9,7 +10,7 @@ target: Engineers who have/will launch their own products, though the topics are
 
 ## Abstract
 
-Solving complex problems is a delicate balance of trade-offs and compromises and many projects have languished because of a pursuit of perfection.  This is particularly true of developers who want to launch their own side-projects. In this talk, we’ll discuss where the lines are in the sand and how engineers/entrepreneurs can identify and ship “good enough” software and keep projects alive and in front of users.
+Solving complex problems is a delicate balance of trade-offs and compromises. Many projects have languished because of a pursuit of perfection.  This is particularly true of developers who want to launch their own side-projects. In this talk, we’ll discuss where the lines are in the sand and how engineers/entrepreneurs can identify and ship “good enough” software and keep projects alive and in front of users.
 
 ## Details
 
