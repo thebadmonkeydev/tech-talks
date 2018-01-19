@@ -42,5 +42,5 @@ Working remotely is being embraced more and more by our industry and is going to
 
 ## Pitch
 
-Remote working is expanding in the technology space and has allowed businesses to develop with less overhead and with more productive employees. Remote positions are highly sought after by job seekers, but it's not all sunshine and kitty cats.  Remote work is still work, and there are many companies who downright believe myths about remote working.  I've had the benefit to work fully remote for two years now and have experienced many of the misconceptions that still exist first hand.  This talk attempts to dispel those misconceptions on both sides of team.
+Remote working is expanding in the technology space and has allowed businesses to develop with less overhead and with more productive employees. Remote positions are highly sought after by job seekers, but it's not all sunshine and kitty cats.  Remote work is still work, and there are many companies who downright believe myths about remote working.  I've had the benefit to work fully remote for several years now and have experienced many of the misconceptions that still exist first hand.  This talk attempts to dispel those misconceptions on both sides of team.
 
