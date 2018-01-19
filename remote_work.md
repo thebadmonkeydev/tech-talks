@@ -8,7 +8,7 @@ target: Engineers and entrepreneurs working in tech, particularly those that do 
 
 ## Abstract
 
-Working remotely is being embraced more and more by our industry and is going to be a continued force for both developer happiness and costs. In this talk I discuss some of the myths still prevalent about remote work and present strategies to start working/hiring remotely.
+Working remotely is being embraced more and more by our industry and is going to be a continued force for both developer happiness and costs. In this talk I discuss some of the myths still prevalent about remote work and present strategies to start working and hiring remotely.
 
 ## Details
 
