@@ -1,7 +1,4 @@
 ---
-submitted:
-  - RailsConf 2018 (Jan 18, 2018)
-track:  Business and Rails
 target: Engineers who have/will launch their own products, though the topics are applicable to engineers within a larger organization as well, just maybe not as pertinent.
 ---
 

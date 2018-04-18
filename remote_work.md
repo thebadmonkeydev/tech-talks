@@ -1,6 +1,4 @@
 ---
-submitted:
-  - RailsConf 2018
 target: Engineers and entrepreneurs working in tech, particularly those that do or want to begin introducing remote work into their organizations
 ---
 
