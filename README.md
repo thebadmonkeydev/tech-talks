@@ -4,10 +4,10 @@ This is my collection of tech talk proposals for conferences like RailsConf, Rub
 
 ```
 ---
-author: Michael Kelly <michaelkelly322@gmail.com>
-conf:   RailsConf 2018
-track:  Business and Rails
-result: <rejected | accepted and when presented>
+target: <Target audience for the talk>
+slides: <link to slideshare slides>
+presented:
+  - RailsConf 2015
 ---
 
 # <Title>
