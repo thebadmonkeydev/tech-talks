@@ -5,6 +5,7 @@ This is my collection of tech talk proposals for conferences like RailsConf, Rub
 ```
 ---
 target: <Target audience for the talk>
+track: <Conference track if any>
 slides: <link to slideshare slides>
 presented:
   - RailsConf 2015
