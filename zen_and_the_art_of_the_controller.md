@@ -4,7 +4,7 @@ slides: https://www.slideshare.net/MichaelKelly21/zen-and-the-art-of-the-control
 videos:
   - https://www.youtube.com/watch?v=KVkQ9UEQk0Y
 presented:
-  - RailsConf-2015
+  - RailsConf(2015)
 ---
 
 # Zen and the Art of the Controller
